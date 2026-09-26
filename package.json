@@ -1,7 +1,10 @@
 {
   "name": "source-map-url-modern",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Simon Lydell",
+  "contributors": [
+    "sbty"
+  ],
   "license": "MIT",
   "description": "A maintained, dependency-free compatibility implementation of source-map-url.",
   "keywords": [
@@ -11,7 +14,6 @@
     "annotation"
   ],
   "main": "source-map-url.js",
-  "exports": "./source-map-url.js",
   "types": "index.d.ts",
   "files": [
     "source-map-url.js",
